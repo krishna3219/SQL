@@ -1,5 +1,4 @@
--- SECTION 8
-    -- WINDOW FUNCTIONS
+-- SECTION 8: WINDOW FUNCTIONS
 
     -- view all databases in the server.
     SELECT NAME FROM sys.databases;
